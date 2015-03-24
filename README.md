@@ -15,5 +15,4 @@ Optional strories completed:
 * Created and played with animation blocks
 * Played with If / Else statements
 
-![My image](https://plus.google.com/photos/102025624088638285930/albums/6129688210259653297/6129688213818221618?banner=pwa&pid=6129688213818221618&oid=102025624088638285930)
-(sorry, I've literally spent over an hour trying to figure out how to upload the .gif I created an can't seem to figure it out.)
+<img src="https://lh6.googleusercontent.com/-4dZSJHayfUw/VREHckDs-nI/AAAAAAAACv4/2Sxm5fTGhug/w632-h1122-no/Typs.gif" alt="" width="300">
