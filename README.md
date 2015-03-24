@@ -15,4 +15,5 @@ Optional strories completed:
 * Created and played with animation blocks
 * Played with If / Else statements
 
+
 <img src="https://lh6.googleusercontent.com/-4dZSJHayfUw/VREHckDs-nI/AAAAAAAACv4/2Sxm5fTGhug/w632-h1122-no/Typs.gif" alt="" width="300">
